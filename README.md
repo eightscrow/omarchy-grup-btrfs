@@ -1,10 +1,10 @@
-# omarchy-grub-btrfs
+# Boot entry Snapshots for Asahi Alarm
 
-Installs and configures snapper + grub-btrfs on Arch Linux so BTRFS snapshots show up as boot entries in GRUB.
+Installs and configures snapper + grub-btrfs on Arch Linux so BTRFS snapshots show up as boot entries in GRUB 
 
 ## Requirements
 
-- Arch Linux
+- Asahi Alarm
 - BTRFS root filesystem
 - GRUB bootloader
 - sudo access
