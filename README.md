@@ -12,7 +12,7 @@ Installs and configures snapper + grub-btrfs on Arch Linux so BTRFS snapshots sh
 ## Install
 
 ```bash
-git clone https://github.com/eightscrow/omarchy-grup-btrfs.git && cd omarchy-grup-btrfs && bash install.sh
+git clone https://github.com/eightscrow/Asahi-Alarm-Snapshots.git && cd Asahi-Alarm-Snaphshots && bash install.sh
 ```
 
 ## What it does
